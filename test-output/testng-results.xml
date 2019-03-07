@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="12567" started-at="2019-03-07T09:50:34Z" finished-at="2019-03-07T09:50:47Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="12567" started-at="2019-03-07T09:50:34Z" finished-at="2019-03-07T09:50:47Z">
+      <class name="mavenProject.Google">
+        <test-method status="PASS" signature="LaunchAppTest()[pri:0, instance:mavenProject.Google@5419f379]" name="LaunchAppTest" is-config="true" duration-ms="10923" started-at="2019-03-07T15:20:34Z" finished-at="2019-03-07T15:20:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LaunchAppTest -->
+        <test-method status="PASS" signature="launchTest()[pri:0, instance:mavenProject.Google@5419f379]" name="launchTest" duration-ms="21" started-at="2019-03-07T15:20:45Z" finished-at="2019-03-07T15:20:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchTest -->
+        <test-method status="PASS" signature="BrowserCloseTest()[pri:0, instance:mavenProject.Google@5419f379]" name="BrowserCloseTest" is-config="true" duration-ms="1596" started-at="2019-03-07T15:20:45Z" finished-at="2019-03-07T15:20:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BrowserCloseTest -->
+      </class> <!-- mavenProject.Google -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
